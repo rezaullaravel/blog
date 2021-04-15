@@ -1,0 +1,16 @@
+{
+    "name": "rezaul/1991",
+    "description": "my project description",
+    "authors": [
+        {
+            "name": "rezaul",
+            "email": "rezaul@gmail.com"
+        }
+    ],
+	"autoload":{
+	"psr-4":{
+	"App\\":"app"
+	}
+	},
+    "require": {}
+}
